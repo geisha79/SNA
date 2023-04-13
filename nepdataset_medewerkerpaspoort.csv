@@ -1,0 +1,100 @@
+﻿idPersoon;Naam;idTeam;Team;idKennis;Kennis;idType;Type;overig_onderwerp;mate_kennis;mate_gebruik;mate_leuk
+50;Alfred Sprock;25;EDM1;5;Landbouw;1;Onderwerp; ;1;2;2
+67;Tjalling Slinker;29;CDO-office;15;Schrijfvaardigheid;2;Vaardigheid; ;1;1;1
+62;Marnix Boever;27;Analytics1;8;Ontwikkelingssamenwerking;1;Onderwerp; ;1;1;2
+76;Kees Jonker;28;Analytics2;4;Klimaat&Energie;1;Onderwerp; ;1;2;1
+85;Margriet Min;27;Analytics1;16;Innovatief;2;Vaardigheid; ;1;1;2
+97;Joop Hager;29;CDO-office;17;Scrum/Agile;2;Vaardigheid; ;1;2;1
+83;Nienke Kuk;25;EDM1;15;Schrijfvaardigheid;2;Vaardigheid; ;1;2;1
+55;Gijs Rutgers;25;EDM1;24;123Survey;3;Tooling; ;1;1;1
+83;Nienke Kuk;25;EDM1;7;Dier & Natuur;1;Onderwerp; ;1;2;1
+56;Guus Salins;26;EDM2;17;Scrum/Agile;2;Vaardigheid; ;1;2;2
+59;Leonardus Felts;29;CDO-office;13;Visualiseren;2;Vaardigheid; ;1;2;1
+59;Leonardus Felts;29;CDO-office;12;Adviseren;2;Vaardigheid; ;2;2;1
+72;Sem Smyers;29;CDO-office;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;1;1;1
+86;Gesina Most;28;Analytics2;24;123Survey;3;Tooling; ;2;1;1
+82;Katja Marsman;29;CDO-office;15;Schrijfvaardigheid;2;Vaardigheid; ;1;1;1
+51;Alvin Harren;26;EDM2;22;FME;3;Tooling; ;2;1;1
+79;Klaus Merck;26;EDM2;13;Visualiseren;2;Vaardigheid; ;1;1;1
+96;Rudolph Hendricks;28;Analytics2;4;Klimaat&Energie;1;Onderwerp; ;2;2;2
+66;Theodoor Francke;27;Analytics1;16;Innovatief;2;Vaardigheid; ;2;2;1
+94;Ivo Lanners;26;EDM2;24;123Survey;3;Tooling; ;2;2;1
+64;Sophie Vroom;29;CDO-office;12;Adviseren;2;Vaardigheid; ;1;2;2
+97;Joop Hager;29;CDO-office;9;Gebiedsgericht werken;1;Onderwerp; ;1;2;1
+67;Tjalling Slinker;29;CDO-office;15;Schrijfvaardigheid;2;Vaardigheid; ;1;1;1
+86;Gesina Most;28;Analytics2;23;ESRI ArcGIS online;3;Tooling; ;2;1;2
+80;Petronella Bloem;27;Analytics1;11;Presenteren;2;Vaardigheid; ;1;2;2
+85;Margriet Min;27;Analytics1;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;2;2;2
+67;Tjalling Slinker;29;CDO-office;15;Schrijfvaardigheid;2;Vaardigheid; ;2;1;1
+91;Sophie De Sutter;28;Analytics2;23;ESRI ArcGIS online;3;Tooling; ;1;1;1
+65;Suzanne Scaff;25;EDM1;24;123Survey;3;Tooling; ;1;1;1
+71;Tim Kip;28;Analytics2;7;Dier & Natuur;1;Onderwerp; ;1;1;1
+97;Joop Hager;29;CDO-office;19;Adobe;3;Tooling; ;2;2;2
+68;Marcel Vanderwal;25;EDM1;5;Landbouw;1;Onderwerp; ;2;2;1
+90;Femke Schutter;27;Analytics1;23;ESRI ArcGIS online;3;Tooling; ;1;1;1
+57;Hendrika De Meulenaere;27;Analytics1;8;Ontwikkelingssamenwerking;1;Onderwerp; ;2;2;2
+82;Katja Marsman;29;CDO-office;16;Innovatief;2;Vaardigheid; ;2;2;2
+96;Rudolph Hendricks;28;Analytics2;12;Adviseren;2;Vaardigheid; ;2;2;1
+72;Sem Smyers;29;CDO-office;23;ESRI ArcGIS online;3;Tooling; ;1;1;2
+88;Johanna Koman;25;EDM1;15;Schrijfvaardigheid;2;Vaardigheid; ;1;1;2
+96;Rudolph Hendricks;28;Analytics2;14;Organiseren;2;Vaardigheid; ;1;1;2
+73;Lieven Lucht;25;EDM1;24;123Survey;3;Tooling; ;1;1;1
+59;Leonardus Felts;29;CDO-office;7;Dier & Natuur;1;Onderwerp; ;2;1;2
+71;Tim Kip;28;Analytics2;24;123Survey;3;Tooling; ;1;1;2
+93;Teun Dederick;25;EDM1;9;Gebiedsgericht werken;1;Onderwerp; ;1;1;2
+84;Ellen Hardman;26;EDM2;4;Klimaat&Energie;1;Onderwerp; ;1;2;2
+69;Calvin Monnin;26;EDM2;7;Dier & Natuur;1;Onderwerp; ;1;1;1
+80;Petronella Bloem;27;Analytics1;10;Overig;1;Onderwerp;marketing;1;1;2
+50;Alfred Sprock;25;EDM1;21;SAS VA;3;Tooling; ;2;1;1
+80;Petronella Bloem;27;Analytics1;24;123Survey;3;Tooling; ;2;1;2
+71;Tim Kip;28;Analytics2;20;SAS EG;3;Tooling; ;2;1;1
+86;Gesina Most;28;Analytics2;14;Organiseren;2;Vaardigheid; ;2;1;1
+95;Edwin De Ronde;27;Analytics1;23;ESRI ArcGIS online;3;Tooling; ;2;1;2
+82;Katja Marsman;29;CDO-office;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;1;1;2
+93;Teun Dederick;25;EDM1;24;123Survey;3;Tooling; ;2;2;1
+77;Hannes Oeltjenbruns;29;CDO-office;5;Landbouw;1;Onderwerp; ;2;2;2
+64;Sophie Vroom;29;CDO-office;24;123Survey;3;Tooling; ;2;2;1
+84;Ellen Hardman;26;EDM2;24;123Survey;3;Tooling; ;1;2;1
+97;Joop Hager;29;CDO-office;15;Schrijfvaardigheid;2;Vaardigheid; ;1;1;2
+90;Femke Schutter;27;Analytics1;15;Schrijfvaardigheid;2;Vaardigheid; ;2;1;2
+66;Theodoor Francke;27;Analytics1;15;Schrijfvaardigheid;2;Vaardigheid; ;1;2;2
+91;Sophie De Sutter;28;Analytics2;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;2;2;1
+90;Femke Schutter;27;Analytics1;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;1;1;1
+84;Ellen Hardman;26;EDM2;7;Dier & Natuur;1;Onderwerp; ;1;2;2
+69;Calvin Monnin;26;EDM2;8;Ontwikkelingssamenwerking;1;Onderwerp; ;1;1;2
+51;Alvin Harren;26;EDM2;17;Scrum/Agile;2;Vaardigheid; ;2;1;1
+63;Ralph Krul;28;Analytics2;13;Visualiseren;2;Vaardigheid; ;1;2;2
+88;Johanna Koman;25;EDM1;19;Adobe;3;Tooling; ;1;1;1
+63;Ralph Krul;28;Analytics2;22;FME;3;Tooling; ;1;1;2
+73;Lieven Lucht;25;EDM1;10;Overig;1;Onderwerp;EHBO;2;2;2
+63;Ralph Krul;28;Analytics2;19;Adobe;3;Tooling; ;2;2;2
+65;Suzanne Scaff;25;EDM1;13;Visualiseren;2;Vaardigheid; ;2;1;1
+80;Petronella Bloem;27;Analytics1;4;Klimaat&Energie;1;Onderwerp; ;2;1;1
+97;Joop Hager;29;CDO-office;23;ESRI ArcGIS online;3;Tooling; ;2;2;2
+61;Ludo Thiem;26;EDM2;23;ESRI ArcGIS online;3;Tooling; ;2;1;2
+76;Kees Jonker;28;Analytics2;12;Adviseren;2;Vaardigheid; ;1;2;1
+93;Teun Dederick;25;EDM1;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;2;1;2
+60;Loes Lien;25;EDM1;8;Ontwikkelingssamenwerking;1;Onderwerp; ;1;1;2
+61;Ludo Thiem;26;EDM2;19;Adobe;3;Tooling; ;1;2;2
+92;Joost Pickel;29;CDO-office;7;Dier & Natuur;1;Onderwerp; ;2;2;1
+52;Barbara Odekirk;27;Analytics1;7;Dier & Natuur;1;Onderwerp; ;1;2;1
+90;Femke Schutter;27;Analytics1;4;Klimaat&Energie;1;Onderwerp; ;1;1;1
+60;Loes Lien;25;EDM1;5;Landbouw;1;Onderwerp; ;2;2;1
+72;Sem Smyers;29;CDO-office;14;Organiseren;2;Vaardigheid; ;1;2;1
+62;Marnix Boever;27;Analytics1;16;Innovatief;2;Vaardigheid; ;1;1;2
+80;Petronella Bloem;27;Analytics1;22;FME;3;Tooling; ;2;2;1
+59;Leonardus Felts;29;CDO-office;4;Klimaat&Energie;1;Onderwerp; ;1;2;2
+86;Gesina Most;28;Analytics2;7;Dier & Natuur;1;Onderwerp; ;2;1;2
+67;Tjalling Slinker;29;CDO-office;4;Klimaat&Energie;1;Onderwerp; ;1;2;1
+73;Lieven Lucht;25;EDM1;15;Schrijfvaardigheid;2;Vaardigheid; ;2;1;2
+94;Ivo Lanners;26;EDM2;23;ESRI ArcGIS online;3;Tooling; ;1;1;1
+54;Eva Broers;29;CDO-office;16;Innovatief;2;Vaardigheid; ;2;1;1
+81;Jorien Sikkink;28;Analytics2;6;Ondernemen & Bedrijfsvoering;1;Onderwerp; ;2;2;2
+73;Lieven Lucht;25;EDM1;10;Overig;1;Onderwerp;changemanagement;1;1;2
+97;Joop Hager;29;CDO-office;11;Presenteren;2;Vaardigheid; ;1;2;1
+64;Sophie Vroom;29;CDO-office;22;FME;3;Tooling; ;2;1;1
+50;Alfred Sprock;25;EDM1;22;FME;3;Tooling; ;2;1;2
+67;Tjalling Slinker;29;CDO-office;23;ESRI ArcGIS online;3;Tooling; ;2;2;1
+59;Leonardus Felts;29;CDO-office;19;Adobe;3;Tooling; ;1;1;1
+67;Tjalling Slinker;29;CDO-office;12;Adviseren;2;Vaardigheid; ;1;2;2
+51;Alvin Harren;26;EDM2;4;Klimaat&Energie;1;Onderwerp; ;1;1;2
